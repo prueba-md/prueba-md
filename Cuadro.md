@@ -1,0 +1,86 @@
+<table style="text-align:center">
+    <thead>
+        <tr>
+            <th>Integrantes</th>
+            <th>Descripción</th>
+            <th>Conocimientos</th>
+        </tr>
+    </thead>
+    <body >
+        <tr>
+            <!-- DATOS del integrante 1-->
+            <td > 
+            <img src="/assets/img/chapter-I/RenzoLlerena.png" height="120" alt="">
+            Renzo Miguel Llerena Delagado - U202312399
+            <br> 
+            </td>
+            <!--DESCRIPCIÓN del integrante 1-->
+            <td>Me destaco por ser responsable, trabajador y tener un enfoque en la perfección y la calidad en todos mis proyectos. Disfruto trabajando en equipo, colaborando para alcanzar mis objetivos y siempre buscando superar expectativas. Me mantengo en constante aprendizaje, dispuesto a enfrentar desafíos con una actitud proactiva y resolutiva.</td>
+            <!-- CONOCIMIENTOS del integrante 1-->
+            <td>Tengo conocimientos en C++, Python, Java, Javascript, C# PHP, Hacking ético y HTML.</td>
+        </tr>
+        <tr>
+            <!-- DATOS del integrante 2-->
+            <td>
+            <img src="/assets/img/chapter-I/RenzoVillafuerte.png" height="120" alt="RenzoVillafuerte">
+              Renzo Alonso Villafuerte Tapia - U202310670
+            <br>
+            </td>
+            <!-- DESCRIPCIÓN del integrante 2-->
+            <td>
+              Estudio la carrera de Ingenieria de Software en la UPC. Estoy dispuesto a apoyar a mi equipo en cualquier necesidad técnica, ofreciendo soluciones y compartiendo conocimiento.
+            </td>
+            <!-- CONOCIMIENTOS del integrante 2-->
+            <td>
+              Tengo amplio conocimiento en programación en C++, incluyendo manejo de estructuras de datos, y programación orientada a objetos. Además, tengo habilidades para analizar y resolver problemas complejos de manera eficiente, gestionar tareas y proyectos asegurando el cumplimiento de plazos, y adaptarme rápidamente a nuevas tecnologías y entornos de trabajo.
+            </td>
+        </tr>
+<tr>
+            <!-- DATOS del integrante 3-->
+            <td> 
+            <img src="../assets/img/chapter-I/OscarArmas.png" height="120" alt="OscarArmas">
+              Oscar Javier Armas Sánchez - U20211G192
+            <br> 
+            </td>
+            <!-- DESCRIPCIÓN del integrante 3-->
+            <td>
+              Soy estudiante de la carrera de ingeniería de software en la UPC. Tengo pasión por la lectura , y me gusta experimentar diferentes campos. Trato siempre de poder mejorar y aprender cada día.
+            </td>
+            <!-- CONOCIMIENTOS del integrante 3-->
+            <td> 
+               Cuento con conocimientos en lenguajes de programación como C++, Python, programación web utilizando HTML y CSS, conocimientos en SQL ; así mismo también poseo conocimientos generales en diversas materias como matemáticas y fisica
+               .
+            </td>
+        </tr>
+<tr>
+            <!-- DATOS del integrante 4-->
+            <td> 
+            <img src="/assets/img/chapter-I/GiovanyTorres.png" height="120" alt="GiovanyTorres">
+              Torres Apolinario, Giovany Smith - U202311601
+            <br> 
+            </td>
+            <!-- DESCRIPCIÓN del integrante 3-->
+            <td>
+            Estoy cursando el quinto ciclo de mi carrera, soy una persona responsable que le gusta resolver desafíos a la par con el trabajo  responsable y en equipo tengo la capacidad de líder y me gusta aprender nuevas cosas dia a dia.            </td>
+            <!-- CONOCIMIENTOS del integrante 3-->
+            <td> 
+               Cuento con conocimientos en lenguajes de programación como C++, Python, programación web utilizando HTML y CSS, conocimientos en SQL ; así mismo también poseo conocimientos generales en diversas materias como matemáticas y fisica
+               .
+            </td>
+        </tr>
+<tr>
+<td> 
+            <img src="/assets/img/chapter-I/MatiasDiaz" height="120" alt="MatiasDiaz">
+              Matias Sebastian Diaz Quispe - u202311938
+            <br> 
+            </td>
+            <!-- DESCRIPCIÓN del integrante 5-->
+            <td>
+              Soy estudiante de la carrera de ingeniería de software en la UPC. Tengo pasión por la lectura , y me gusta experimentar diferentes campos. Trato siempre de poder mejorar y aprender cada día.
+            </td>
+            <!-- CONOCIMIENTOS del integrante 3-->
+            <td> 
+              Tengo conocimientos en los lenguajes de C + +, Python básico, Javascript, HTML y CSS, programación orientada a objetos, además de contar con manejo básico de framework de Angular y React. Adaptable e impulsado con una fuerte ética de trabajo               .
+            </td>
+        </tr>
+<tr>
