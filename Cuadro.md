@@ -35,7 +35,6 @@
               Tengo amplio conocimiento en programación en C++, incluyendo manejo de estructuras de datos, y programación orientada a objetos. Además, tengo habilidades para analizar y resolver problemas complejos de manera eficiente, gestionar tareas y proyectos asegurando el cumplimiento de plazos, y adaptarme rápidamente a nuevas tecnologías y entornos de trabajo.
             </td>
         </tr>
-<tr>
             <!-- DATOS del integrante 3-->
             <td> 
             <img src="../assets/img/chapter-I/OscarArmas.png" height="120" alt="OscarArmas">
@@ -52,7 +51,6 @@
                .
             </td>
         </tr>
-<tr>
             <!-- DATOS del integrante 4-->
             <td> 
             <img src="/assets/img/chapter-I/GiovanyTorres.png" height="120" alt="GiovanyTorres">
