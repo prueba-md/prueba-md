@@ -10,7 +10,7 @@
         <tr>
             <!-- DATOS del integrante 1-->
             <td > 
-            <img src="/assets/img/chapter-I/RenzoLlerena.png" height="120" alt="">
+            <img src="/assets/img/chapter-I/RenzoLlerena.png" height="120" alt="RenzoLlerena">
             Renzo Miguel Llerena Delagado - U202312399
             <br> 
             </td>
