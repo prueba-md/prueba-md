@@ -38,7 +38,7 @@
         <tr>
             <!-- DATOS del integrante 3 -->
             <td>
-                <img src="../assets/img/chapter-I/OscarArmas.png" height="120" alt="OscarArmas"><br>
+                <img src="assets/img/chapter-I/OscarArmas.png" height="120" alt="OscarArmas"><br>
                 <strong>Oscar Javier Armas Sánchez</strong><br>
                 U20211G192
             </td>
