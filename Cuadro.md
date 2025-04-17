@@ -96,7 +96,6 @@ En esta sección describimos el perfil de nuestra Startup.
 </table>
 
 
-
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
