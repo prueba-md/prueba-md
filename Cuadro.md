@@ -81,12 +81,12 @@ En esta sección describimos el perfil de nuestra Startup.
         <tr>
             <!-- DATOS del integrante 5 -->
             <td>
-                <img src="/assets/img/chapter-I/MatiasDiaz" height="120" alt="MatiasDiaz"><br>
+                <img src="/assets/img/chapter-I/MatiasDiaz.png" height="120" alt="MatiasDiaz"><br>
                 <strong>Matias Sebastian Diaz Quispe</strong><br>
                 U202311938
             </td>
             <td>
-                Soy estudiante de la carrera de Ingeniería de Software en la UPC. Tengo pasión por la lectura, y me gusta experimentar diferentes campos. Trato siempre de poder mejorar y aprender cada día.
+                Soy estudiante de la carrera de Ingeniería de Software en la UPC. Me encanta la carrera que estoy estudiando y es por ello que estoy dispuesto a dar todo por mi equipo y el curso.
             </td>
             <td>
                 Tengo conocimientos en los lenguajes C++, Python básico, JavaScript, HTML y CSS, programación orientada a objetos, además de contar con manejo básico de frameworks como Angular y React. Soy adaptable y tengo una fuerte ética de trabajo.
